@@ -12,4 +12,6 @@
   Script.cs and script.exe are example output from InstallUtil.py.  To execute the execute, simply get the binary on disk and then run (something much like):
   C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe /logfile= /LogToConsole=false /U script.exe
 
-  Requires mono, mono-develop, Python 2.7+, msfvenom (from metasploit). Tested and verified the script on a Kali linux VM.  Both 32-bit and 64-bit binaries tested and verified on Windows 7 with .NET 4.5. -khr0x40sh@gmail.com 
+  Requires mono, mono-develop, Python 2.7+, msfvenom (from metasploit). Tested and verified the script on a Kali linux VM.  Both 32-bit and 64-bit binaries tested and verified on Windows 7 with .NET 4.5.    
+
+khr0x40sh@gmail.com 
