@@ -1,0 +1,9 @@
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\bin\x64\Release\test64.exe.config
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\bin\x64\Release\test64.exe
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\bin\x64\Release\test64.pdb
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\obj\x64\Release\test64.csprojResolveAssemblyReference.cache
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\obj\x64\Release\test64.Form1.resources
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\obj\x64\Release\test64.Properties.Resources.resources
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\obj\x64\Release\test64.csproj.GenerateResource.Cache
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\obj\x64\Release\test64.exe
+C:\Users\SOLID7\documents\visual studio 2013\Projects\test64\test64\obj\x64\Release\test64.pdb
